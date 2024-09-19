@@ -19,3 +19,4 @@ C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\SeleniumConcept2\obj
 C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\SeleniumConcept2.pdb
 C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\SeleniumConcept2.genruntimeconfig.cache
 C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\ref\SeleniumConcept2.dll
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\SeleniumConcept2.sourcelink.json
