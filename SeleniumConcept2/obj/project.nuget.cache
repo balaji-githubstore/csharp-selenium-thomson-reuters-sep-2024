@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9J7wJRi2jCY=",
+  "success": true,
+  "projectFilePath": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConcept2\\SeleniumConcept2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Balaji_Dinakaran\\.nuget\\packages\\selenium.support\\4.24.0\\selenium.support.4.24.0.nupkg.sha512",
+    "C:\\Users\\Balaji_Dinakaran\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

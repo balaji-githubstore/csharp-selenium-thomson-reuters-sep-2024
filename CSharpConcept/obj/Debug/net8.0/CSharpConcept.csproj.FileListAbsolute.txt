@@ -1,0 +1,28 @@
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.exe
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.deps.json
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.runtimeconfig.json
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.dll
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.pdb
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfoInputs.cache
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfo.cs
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.csproj.CoreCompileInputs.cache
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.dll
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\refint\CSharpConcept.dll
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.pdb
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.genruntimeconfig.cache
+C:\Mine\Company\TR Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\ref\CSharpConcept.dll
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.exe
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.deps.json
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.runtimeconfig.json
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.dll
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\bin\Debug\net8.0\CSharpConcept.pdb
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfoInputs.cache
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.AssemblyInfo.cs
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.csproj.CoreCompileInputs.cache
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.dll
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\refint\CSharpConcept.dll
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.pdb
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.genruntimeconfig.cache
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\ref\CSharpConcept.dll
