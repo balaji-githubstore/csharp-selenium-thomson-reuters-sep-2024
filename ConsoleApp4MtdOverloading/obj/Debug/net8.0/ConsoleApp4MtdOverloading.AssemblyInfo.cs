@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp4MtdOverloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e013369bfe4185c5ed8fcfb3dcf0597f5ef478f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp4MtdOverloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp4MtdOverloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
