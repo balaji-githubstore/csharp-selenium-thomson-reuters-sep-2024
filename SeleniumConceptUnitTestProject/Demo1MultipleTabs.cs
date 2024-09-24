@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ThomsonReuters.SeleniumConceptUnitTestProject
 {
-    public class Demo1SeleniumAdvance
+    public class Demo1MultipleTabs
     {
         [Test]
         public void Demo1MultipleTabsTest()
