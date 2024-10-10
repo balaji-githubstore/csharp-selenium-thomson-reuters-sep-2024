@@ -26,3 +26,4 @@ C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\De
 C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.pdb
 C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.genruntimeconfig.cache
 C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\ref\CSharpConcept.dll
+C:\Mine\Company\Thomson Reuters Sep 2024\AutomationSolution\CSharpConcept\obj\Debug\net8.0\CSharpConcept.sourcelink.json

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\mine\\company\\thomson reuters sep 2024\\automationsolution\\seleniumconceptunittestproject\\demo4seleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo4seleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\mine\\company\\thomson reuters sep 2024\\automationsolution\\seleniumconceptunittestproject\\demo3frametest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo3frametest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\mine\\company\\thomson reuters sep 2024\\automationsolution\\seleniumconceptunittestproject\\demo2alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo2alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\mine\\company\\thomson reuters sep 2024\\automationsolution\\seleniumconceptunittestproject\\demo1multipletabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{758AEC7C-3E95-4888-8069-FD188F9F2E6D}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo1multipletabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EE9D791-AE14-4CD3-8B82-5C39CD3E20BE}|CSharpConcept5Oops\\CSharpConcept5Oops.csproj|c:\\mine\\company\\thomson reuters sep 2024\\automationsolution\\csharpconcept5oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE9D791-AE14-4CD3-8B82-5C39CD3E20BE}|CSharpConcept5Oops\\CSharpConcept5Oops.csproj|solutionrelative:csharpconcept5oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,55 +17,28 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Demo3FrameTest.cs",
-              "DocumentMoniker": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo3FrameTest.cs",
-              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo3FrameTest.cs",
-              "ToolTip": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo3FrameTest.cs",
-              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo3FrameTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:45:31.138Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Demo2AlertTest.cs",
-              "DocumentMoniker": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo2AlertTest.cs",
-              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo2AlertTest.cs",
-              "ToolTip": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo2AlertTest.cs",
-              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo2AlertTest.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:45:23.162Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Demo1MultipleTabs.cs",
-              "DocumentMoniker": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo1MultipleTabs.cs",
-              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo1MultipleTabs.cs",
-              "ToolTip": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo1MultipleTabs.cs",
-              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo1MultipleTabs.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T03:03:41.695Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Demo4SeleniumAdvance.cs",
-              "DocumentMoniker": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
-              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
-              "ToolTip": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
-              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAIwHUAAAAOAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\CSharpConcept5Oops\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpConcept5Oops\\Program.cs",
+              "ToolTip": "C:\\Mine\\Company\\Thomson Reuters Sep 2024\\AutomationSolution\\CSharpConcept5Oops\\Program.cs",
+              "RelativeToolTip": "CSharpConcept5Oops\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIBAwC0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T03:01:47.626Z",
+              "WhenOpened": "2024-10-10T03:26:29.734Z",
               "EditorCaption": ""
             }
           ]

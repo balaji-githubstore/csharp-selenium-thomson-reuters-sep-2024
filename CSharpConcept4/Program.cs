@@ -27,7 +27,7 @@ namespace ThomsonReuters.CSharpConcept
 
             string[] colors = { "Red", "Yellow", "Green" };
 
-            foreach (string color in colors)
+            foreach (var color in colors)
             {
                 if (color.ToLower().Equals("red"))
                 {

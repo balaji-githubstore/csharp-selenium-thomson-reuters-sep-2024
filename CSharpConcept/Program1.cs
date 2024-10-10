@@ -67,6 +67,28 @@ namespace ThomsonReuters.CSharpConcept
             Console.WriteLine(colors[1]);
 
             string[] colors1 = { "red", "green", "yellow" };
+
+            Console.WriteLine("*******************************************");
+
+            object[] arr=new object[7];
+
+            arr[0] = 90;
+            arr[1] = 90.33;
+            arr[2] = "hello";
+            arr[3] = colors;
+            arr[4] = numbers;
+            arr[5] = colors1;
+            arr[6] = new string[] { "red", "green", "yellow" };
+
+
+            Console.WriteLine(arr[0]);
+            Console.WriteLine(arr[1]);
+            Console.WriteLine(arr[2]);
+
+            string[] demo = (string[]) arr[3];
+            Console.WriteLine(demo[0]);
+
+            Console.WriteLine(((int[])arr[4])[0]);
         }
     }
 }

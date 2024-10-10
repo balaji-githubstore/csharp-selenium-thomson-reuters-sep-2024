@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.Extensions;
+using System.Collections.ObjectModel;
 
 namespace SeleniumConceptUnitTestProject
 {
@@ -142,6 +143,104 @@ namespace SeleniumConceptUnitTestProject
             driver.ExecuteJavaScript("document.querySelector(\"input[name='dateReturn']\").value='11 Oct 2024'");
         }
 
+        [Test]
+        public void Demo7JSWebElement()
+        {
+
+            ChromeOptions options = new ChromeOptions();
+            options.AddArguments("start-maximized");
+            options.AddArguments("--disable-notifications");
+
+            IWebDriver driver = new ChromeDriver(options);
+            driver.Manage().Window.Maximize();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+
+            driver.Url = "https://www.malaysiaairlines.com/us/en/home.html";
+
+            driver.FindElement(By.XPath("//span[text()='Accept all cookies']")).Click();
+
+            //approach 1 - not working
+            //driver.FindElement(By.XPath("//input[@name='dateDeparture']")).SendKeys("01 Oct 2024");
+
+            //approach 2 - automate the date calendar
+
+            //approach 3- javascript
+            IWebElement eleDepature= driver.FindElement(By.XPath("//input[@name='dateDeparture']"));
+            driver.ExecuteJavaScript("arguments[0].value='01 Oct 2024'", eleDepature);
+
+
+            IWebElement eleReturn = driver.FindElement(By.XPath("//input[@name='dateReturn']"));
+            driver.ExecuteJavaScript("arguments[0].value='11 Oct 2024'", eleReturn);
+        }
+
+
+        [Test]
+        public void Demo8FindElements()
+        {
+
+            //IWebDriver driver = new ChromeDriver();
+            //driver.Manage().Window.Maximize();
+            //driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+
+            //driver.Url = "https://google.com";
+
+            //ReadOnlyCollection<IWebElement> elementList = driver.FindElements(By.TagName("a"));
+
+            var a = 10; //var - datatype will be decided during compile time //a is reserved for int 
+            a = 20;
+
+            var b = "hello"; //b is reserved for string
+            b = "fdfdf";
+
+            dynamic c = "sfsff"; //dynamic - datatype will be decided during run time
+            c = 44;
+            c = 445.44;
+
+        }
+
+
+        [Test]
+        public void Demo9FindElements()
+        {
+
+            IWebDriver driver = new ChromeDriver();
+            driver.Manage().Window.Maximize();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+
+            driver.Url = "https://google.com";
+
+            ReadOnlyCollection<IWebElement> elementList = driver.FindElements(By.TagName("a"));
+
+            Console.WriteLine(elementList.Count);
+
+            var elementList1 = driver.FindElements(By.TagName("a")); // elementList1 is ReadOnlyCollection<IWebElement>
+
+            var title=driver.Title; //title is string
+
+            var res= Math.Max(89, 38.4); //res is double 
+
+
+
+
+        }
+
+        [Test]
+        public void Demo10FindElements()
+        {
+
+            IWebDriver driver = new ChromeDriver();
+            driver.Manage().Window.Maximize();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+
+            driver.Url = "https://google.com";
+
+            ReadOnlyCollection<IWebElement> elementList = driver.FindElements(By.TagName("a"));
+
+            Console.WriteLine(elementList.Count);
+
+            elementList[0].Click();
+
+        }
 
     }
 }
